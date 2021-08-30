@@ -1,11 +1,12 @@
-#Awesome Hacking
-Awesome hacking is a curated list of hacking tools for hackers, pentesters and security researchers. Its goal is to collect, classify and make awesome tools easy to find by humans, creating a toolset you can checkout and update with one command.
+
+Ensemble-HackTools
+Ensemble-HackTools is a curated list of hacking tools for hackers, pentesters and security researchers. Its goal is to collect, classify and make awesome tools easy to find by humans, creating a toolset you can checkout and update with one command.
 
 This is not only a curated list, it is also a complete and updated toolset you can download with one-command!
 
 You can download all the tools with the following command:
 ```
-git clone --recursive https://github.com/jekil/awesome-hacking.git
+git clone --recursive https://github.com/Rexinazor/Ensemble-HackTools
 ```
 
 To update it run the following command:
